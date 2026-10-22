@@ -1,2 +1,2 @@
-# style-e-fashion-house-live
+# Traliq shop
 An ecommerce fashion application
